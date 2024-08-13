@@ -1,0 +1,6 @@
+plotly
+kaleido
+numpy
+setuptools
+wheel
+twine
